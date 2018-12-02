@@ -1,4 +1,4 @@
-# crosswalk-regulator-docs
+# Intro
 This repository serves as a guide to all the code repositories that we made during Open Data Challenge Tashkent 2018 Hackathon.
 
 ## crosswalk-regulator-core(crc)
