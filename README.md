@@ -6,5 +6,5 @@ Briefly, our **Crosswalk Regulator Project** is a crosswalk rule violation detec
 Below, you can find brief description and links to the two main repositories of our Crosswalk Regulator Project.
 
 ## crosswalk-regulator-core(crc)
-This is a core of our Crosswalk regulator project. For more info, go [here](https://github.com/bedilbek/crosswalk-regulator-core).
+This is a core of our Crosswalk regulator project. For more info about the core, go [here](https://github.com/bedilbek/crosswalk-regulator-core).
 
