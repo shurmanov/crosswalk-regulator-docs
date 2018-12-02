@@ -8,3 +8,5 @@ Below, you can find brief description and links to the two main repositories of 
 ## crosswalk-regulator-core(crc)
 This is a core of our Crosswalk regulator project. For more info about the core, go [here](https://github.com/bedilbek/crosswalk-regulator-core).
 
+## crosswalk-regulator-web(crw)
+crosswalk-regulator-web serves as a web-interface for navigating the rule violations in the real-time. For more info about crw, go [here].
